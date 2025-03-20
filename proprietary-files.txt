@@ -1,1 +1,4 @@
+# from Khadas/kvim3l/kvim3l:11/RD2A.211001.002/xiong10240910:userdebug/test-keys
 
+## Keylayout
+vendor/usr/keylayout/Vendor_0001_Product_0001.kl
